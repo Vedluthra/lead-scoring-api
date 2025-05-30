@@ -1,0 +1,9 @@
+{
+  "name": "Alice Smith",
+  "email": "alice@example.com",
+  "company": "WonderTech",
+  "title": "Product Manager",
+  "inquiry_message": "Interested in your AI product for analytics.",
+  "source_channel": "LinkedIn",
+  "industry": "Tech"
+}
